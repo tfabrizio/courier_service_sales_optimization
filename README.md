@@ -26,4 +26,4 @@ Repeat probability declines as volume increases, indicating diminishing marginal
 Higher repeat thresholds (4–5 orders) remain rare and unstable, suggesting a small core of highly loyal users
 Early customer cohorts show higher variance, implying sensitivity to small sample sizes and localized behavior
 
-![Repeat Customer Probability](courier_service_sales_optimization/images/repeat_customer_probability.png)
+![Repeat Customer Probability](images/repeat_customer_probability.png)
